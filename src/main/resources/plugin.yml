@@ -1,0 +1,4 @@
+name: BSP${project.name}
+main: ${project.groupId}.nologintp.NoLoginTp
+version: ${project.version}
+author: Mats391

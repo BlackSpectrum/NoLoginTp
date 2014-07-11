@@ -1,4 +1,4 @@
-package it.github.mats391.nologintp;
+package io.github.mats391.nologintp;
 
 import org.bukkit.Location;
 import org.bukkit.event.EventHandler;
